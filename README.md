@@ -1,1 +1,0 @@
-# double_ended_queue2
